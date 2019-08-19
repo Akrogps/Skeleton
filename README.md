@@ -1,0 +1,2 @@
+# Skeleton
+skeleton of projects
